@@ -1,0 +1,16 @@
+{
+  "name": "Personal_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build:css": "tailwind build style.css -o dist/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "tailwindcss": "^2.2.16"
+  }
+}
